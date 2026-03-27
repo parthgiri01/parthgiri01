@@ -1,100 +1,27 @@
-# 👋 Hi, I'm Parthgiri Vinugiri Ramdati
+# Hi, I'm Parth 👋
 
-🔐 Aspiring SOC Analyst | MSc Cybersecurity Student (UK)
-💻 Focused on Threat Detection, Incident Response & Security Automation
+🎓 MSc Cybersecurity Student @ Birmingham City University (2026)  
+🔐 Passionate about threat detection, SIEM, and real-world security problems  
+🌍 Based in Birmingham, UK | Open to Junior & Internship roles  
 
----
+## 🛠️ Tech Stack
+- SIEM: Splunk, Microsoft Sentinel
+- Security: Kali Linux, Nmap, Wireshark, Penetration Testing
+- Programming: Python, TensorFlow, Scikit-learn
+- Cloud: AWS, Microsoft Azure
+- Frameworks: NIST, OWASP, Incident Response
 
-## 🚀 About Me
+## 🚀 Featured Projects
+| Project | Description | Tech |
+|--------|-------------|------|
+| [ML Intrusion Detection System](#) | Real-time IDS with 94–96% detection accuracy | Python, Scikit-learn, Wireshark |
+| [AI Threat Detection Platform](#) | Enterprise SIEM + deep learning threat detection | Python, TensorFlow, AWS/Azure |
 
-I am a cybersecurity postgraduate student in the UK with hands-on experience in building security labs, analyzing network traffic, and developing Python-based security tools.
+## 📜 Certifications
+- ✅ Google Cybersecurity Certificate
+- ✅ TryHackMe Cybersecurity Learning Path
+- 🔄 CompTIA Security+ (In Progress)
 
-I am passionate about **Security Operations Center (SOC)** work and continuously improving my skills in real-world threat detection, log analysis, and incident response.
-
----
-
-## 🛠️ Technical Skills
-
-* **Programming:** Python (Automation, Scripting)
-* **SIEM Tools:** Splunk, Elastic Stack (ELK)
-* **Networking & Analysis:** Wireshark, TCP/IP, Packet Analysis
-* **Security Tools:** Kali Linux, Nmap, Burp Suite
-* **Concepts:** Threat Detection, Log Analysis, Incident Response
-
----
-
-## 📂 Featured Projects
-
-### 🔎 SOC Analyst Lab
-
-Simulated a real-world Security Operations Center environment.
-
-* Log ingestion and monitoring
-* Detection of brute force attacks
-* Creation of alert rules
-* SIEM dashboards with visual insights
-
-👉 [View Project](#)
-
----
-
-### 🐍 Python Security Tools
-
-Collection of automation tools for cybersecurity tasks.
-
-* IP reputation checker
-* Log analyzer
-* Port scanner
-* Alert automation scripts
-
-👉 [View Project](#)
-
----
-
-### 🧠 CTF Writeups
-
-Documented walkthroughs of cybersecurity challenges.
-
-* Step-by-step solutions
-* Tools used and methodology
-* Key learnings from each challenge
-
-👉 [View Project](#)
-
----
-
-### 🌐 Network Analysis (Wireshark)
-
-Hands-on investigation of network traffic and threats.
-
-* Packet-level analysis
-* DNS and HTTP inspection
-* Identification of suspicious patterns
-
-👉 [View Project](#)
-
----
-
-## 📊 Currently Learning
-
-* Advanced SIEM & Threat Hunting
-* MITRE ATT&CK Framework
-* Blue Team Operations
-
----
-
-## 📈 GitHub Activity
-
-I actively build and document cybersecurity projects daily to strengthen practical, job-ready skills.
-
----
-
-## 📫 Connect With Me
-
-* LinkedIn: www.linkedin.com/in/parth-ramdati-0b0014399
-* Email: p.vramdati01@gmail.com
-
----
-
-⭐ *Actively seeking SOC Analyst / Cybersecurity Analyst opportunities in the UK*
-
+## 📫 Let's Connect
+- LinkedIn: linkedin.com/in/parth-ramdati-0b0014399
+- Email: p.vramdati01@gmail.com
