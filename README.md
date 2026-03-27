@@ -91,8 +91,8 @@ I actively build and document cybersecurity projects daily to strengthen practic
 
 ## 📫 Connect With Me
 
-* LinkedIn: [Add your LinkedIn link]
-* Email: [Add your email]
+* LinkedIn: www.linkedin.com/in/parth-ramdati-0b0014399
+* Email: p.vramdati01@gmail.com
 
 ---
 
